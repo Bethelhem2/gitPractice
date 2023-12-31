@@ -1,1 +1,1 @@
-# gitPractice
+About the project# gitPractice
